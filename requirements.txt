@@ -1,0 +1,6 @@
+requests
+certifi
+confluent-kafka[avro,json,protobuf]
+websocket-client
+rel
+pyspark
